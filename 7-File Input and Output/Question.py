@@ -89,3 +89,5 @@ with open("7-File Input and Output\\practice.txt", "r") as f :
         if(int(val) % 2 == 0) :
             count +=1
 print(count)
+
+
